@@ -1,12 +1,14 @@
-<h1>PROJECT PROBLEM SOLVING IN INFORMATION TECHNOLOGY</h1>
+<h2>★PROJECT PROBLEM SOLVING IN INFORMATION TECHNOLOGY★</h2>
 <a href=""><img src="image/anime.jpg" width="1000px"  height="500"></a><br>
-<h1>Most Popular Anime</h1>
-<h2>۞Objective</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จัดทำโปรแกรมเพื่อศึกษาและวิเคราะห์ข้อมูลของผู้ที่ชมAnimeในปี2016-2017 ว่าในแต่ละปีและในแต่ละSeasonนั้น
-Animeเรื่องไหนมียอดผู้ชมมากที่สุดและให้ความสนใจมากที่สุด โดยอ้างอิงจากเว็ปไซด์ https://myanimelist.net/
+<h2>Most Popular Anime</h2>
+<h3>۞Objective</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;จัดทำโปรแกรมเพื่อศึกษาและวิเคราะห์ข้อมูลผู้ชมอนิเมะว่า ตลอดช่วงระยะเวลาที่ผ่านมา อนิเมะเรื่องไหนมีจำนวนผู้ชมเยอะมากที่สุด คะแนนที่เรื่องนั้นได้รับ เทียบกับจำนวนคะแนนและคนดูโดยรวม และในช่วงปี 2016 - 2017 นี้แต่ละ Season นั้น มีเรื่องไหนได้รับความนิยมจากคนดูมากที่สุด และเป็นอนิเมะแนวไหน โดยข้อมูลทั้งหมดจะอ้างอิงมาจากเว็บไซต์ https://myanimelist.net/ 
 
-<h3>Keyword</h3>
- ❖Anime = animationของญี่ปุ่่น<br>
- ❖Score = คะแนนที่มาจากสามชิกของเว็ปไซด์ MyAnimeList.net<br>
- ❖Audience = ผู้ชม/สมาชิก ที่ดูAnimeเรื่องนั้นๆ<br>
- ❖Season = ฤดูกาล เช่น ฤดูหนาว ฤดูร้อน ,ซึ่งในฤดูกาลนั้นๆจะมีAnimeที่เข้าฉายแตกต่างกันไป<br>
+<h3>What is Anime ?<h3>
+    Anime คือ 
+
+Info : ไฟล์ csv จะประกอบไปด้วย
+ ❖Audience : ผู้ชม / สมาชิก ที่ดูAnimeเรื่องนั้นๆ<br>
+ ❖Score    : คะแนนที่มาจากสมาชิกของเว็ปไซด์ MyAnimeList.net<br>
+ ❖Season   : ฤดูกาลต่างๆ เช่น ฤดูหนาว ฤดูร้อน ฯลฯ ซึ่งภายในช่วงฤดูกาลนั้นๆ จะมี Anime ที่เข้าฉายแตกต่างกันไป<br>
+ ❖Tag      : คำสั้นๆที่อาจบ่งบอกถึงเนื้อหาต่างๆ ว่ามีลักษณะเกี่ยวข้องกันกับเรืองนั้นๆอย่างไร

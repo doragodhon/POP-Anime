@@ -7,7 +7,7 @@
 <h3>۞What is Anime ?</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anime คือ
 
-<h4>Info : ไฟล์ csv จะประกอบไปด้วย</h4><br>
+<h4>Info : ไฟล์ csv จะประกอบไปด้วย</h4>
  ❖Audience : ผู้ชม / สมาชิก ที่ดูAnimeเรื่องนั้นๆ<br>
  ❖Score    : คะแนนที่มาจากสมาชิกของเว็ปไซด์ MyAnimeList.net<br>
  ❖Season   : ฤดูกาลต่างๆ เช่น ฤดูหนาว ฤดูร้อน ฯลฯ ซึ่งภายในช่วงฤดูกาลนั้นๆ จะมี Anime ที่เข้าฉายแตกต่างกันไป<br>

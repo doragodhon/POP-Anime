@@ -12,3 +12,7 @@
  ❖Score    : คะแนนที่มาจากสมาชิกของเว็ปไซด์ MyAnimeList.net<br>
  ❖Season   : ฤดูกาลต่างๆ เช่น ฤดูหนาว ฤดูร้อน ฯลฯ ซึ่งภายในช่วงฤดูกาลนั้นๆ จะมี Anime ที่เข้าฉายแตกต่างกันไป<br>
  ❖Tag      : คำสั้นๆที่อาจบ่งบอกถึงเนื้อหาต่างๆ ว่ามีลักษณะเกี่ยวข้องกันกับเรืองนั้นๆอย่างไร
+
+<h4> Members </h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="image/member/61070056.jpg" width="100px"  height="100"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="image/member/61070234.jpg" width="100px"  height="100"></a>
